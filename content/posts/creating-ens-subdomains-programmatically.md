@@ -27,7 +27,7 @@ When doing it with a smart contract it's very much the same steps. The only diff
 
 So the steps are
 1. write the smart contract to, 1. create the subdomain and 2. set data to that subdomain
-2. authorize the smart contract to control the ENS
+2. authorize the smart contract to manage the ENS domain you've created
 3. use it 🤪
 
 In this example, we will use Ethereum Sepolia.
