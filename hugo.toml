@@ -16,7 +16,7 @@ author = "Bernardo"
 # license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
 description = "Bernardo's personal website"
 keywords = "blog,developer,personal"
-info = "web3 dev, full stack capable with focus on (solidity) smart contracts and backend. Currently learning zero knowledge 🥷 and rust 🦀"
+info = "web3 dev, full stack capable with focus on (solidity) smart contracts and backend. Currently learning rust 🦀 And exploring ZK (mainly with Noir), AA and cross chain related tooling"
 details = ["🧑‍💻 10+ hackthons and counting", "👨‍🚀 one time co-founder (3.5y)", "🤪 friendly, 🐈 cat herder and 🪴 plant addicted"]
 avatarURL = "images/avatar.jpg"
 dateFormat = "January 2, 2006"
