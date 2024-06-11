@@ -14,11 +14,12 @@ noClasses = false
 [params]
 author = "Bernardo"
 # license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
-description = "¡hello <<fren<!!1! here's a little intro about <<<myself<<000<<<"
+description = "hello fren<!!1! here's a little intro about <myself<00<"
 keywords = "blog,developer,personal"
 info = "web3 dev, full stack capable with focus on (solidity) smart contracts and backend. Currently learning rust 🦀 Also exploring ZK (mainly with Noir), AA and cross chain related tooling"
 details = ["🧑‍💻 10+ hackthons and counting", "👨‍🚀 one time co-founder (3.5y)", "🤪 friendly, 🐈 cat herder and 🪴 plant addicted"]
 avatarURL = "images/avatar.jpg"
+images = ["images/avatar.jpg"]
 dateFormat = "January 2, 2006"
 since = 2024
 # Git Commit in Footer, uncomment the line below to enable it
